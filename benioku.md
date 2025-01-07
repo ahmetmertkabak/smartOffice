@@ -1,4 +1,4 @@
-# Akıllı Ofis Güvenlik ve İzleme Sistemi
+ # Akıllı Ofis Güvenlik ve İzleme Sistemi
 Merhaba! Biz, ofis alanlarının güvenliğini ve verimliliğini artırmak için akıllı bir sistem oluşturmak üzere yola çıktık. İşte böylece "Akıllı Ofis Güvenlik ve İzleme Sistemi" projemiz doğdu.
 
 # Proje Genel Bakış
